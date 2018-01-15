@@ -1,0 +1,38 @@
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#timeChart {
+  position: absolute;
+  bottom: 0;
+  height: 70px;
+  transition: 0.2s;
+}
+#timeChart:hover  {
+  height: 220px;
+  transition: 0.3s;
+}
+#timeChart:hover .legendContainer {
+  transition: 0.3s;
+  transition-delay: 0.1s;
+  opacity: 1;
+}
+#timeChart:hover #timeContainer {
+  transition: 0.2s;
+  transition-delay: 0.1s;
+  height: 30px;
+}
+.legendContainer {
+  transition: 0.5s;
+  opacity: 0;
+}

@@ -1,0 +1,106 @@
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 4 ||| __now::: 1516020025512
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1516020026509
+__app::: "atom", "Atom" ||| __title::: "Project — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1516020028507
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 7 ||| __now::: 1516020036521
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1516020037512
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1516020040502
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Inbox - mirolyubov.dev@gmail.com - Gmail - Google Chrome" ||| __time::: 0 ||| __now::: 1516020041518
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1516020055529
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1516020066300
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 11 ||| __now::: 1516020079298
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1516020082522
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 11 ||| __now::: 1516020098661
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 4 ||| __now::: 1516020103661
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 4 ||| __now::: 1516020108677
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1516020110682
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1516020114273
+__app::: "atom", "Atom" ||| __title::: "Project — ~/Projects/simple-stats — Atom" ||| __time::: 6 ||| __now::: 1516020122256
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1516020124260
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Inbox - mirolyubov.dev@gmail.com - Gmail - Google Chrome" ||| __time::: 0 ||| __now::: 1516020125281
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1516020126299
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 17 ||| __now::: 1516020145257
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1516020148501
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 2 ||| __now::: 1516020152474
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1516020155727
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 2 ||| __now::: 1516020161600
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1516020163565
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 2 ||| __now::: 1516020167929
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1516020168935
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1516020175480
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 12 ||| __now::: 1516020188479
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 6 ||| __now::: 1516020196979
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1516020209019
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1516020212018
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Date.prototype.toTimeString() - JavaScript | MDN - Google Chrome" ||| __time::: 86 ||| __now::: 1516020299024
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1516020300045
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 29 ||| __now::: 1516020337959
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (29)" ||| __time::: 3 ||| __now::: 1516020342946
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1516020346950
+__app::: "wingpanel", "Wingpanel" ||| __title::: "wingpanel" ||| __time::: 0 ||| __now::: 1516020347948
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1516020348943
+__app::: "wingpanel", "Wingpanel" ||| __title::: "wingpanel" ||| __time::: 10 ||| __now::: 1516020359971
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1516020360955
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (29)" ||| __time::: 8 ||| __now::: 1516020370976
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Date.prototype.toTimeString() - JavaScript | MDN - Google Chrome" ||| __time::: 0 ||| __now::: 1516020372948
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1516020374976
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Date.prototype.toTimeString() - JavaScript | MDN - Google Chrome" ||| __time::: 2 ||| __now::: 1516020378957
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1516020379943
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1516020380948
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Date.prototype.toTimeString() - JavaScript | MDN - Google Chrome" ||| __time::: 0 ||| __now::: 1516020381944
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1516020382953
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Date.prototype.toTimeString() - JavaScript | MDN - Google Chrome" ||| __time::: 0 ||| __now::: 1516020383942
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (29)" ||| __time::: 181 ||| __now::: 1516020565968
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Date.prototype.toTimeString() - JavaScript | MDN - Google Chrome" ||| __time::: 0 ||| __now::: 1516020566966
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1516020570972
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Date.prototype.toTimeString() - JavaScript | MDN - Google Chrome" ||| __time::: 8 ||| __now::: 1516020580949
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1516020581965
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Date.prototype.toTimeString() - JavaScript | MDN - Google Chrome" ||| __time::: 0 ||| __now::: 1516020582976
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 24 ||| __now::: 1516020608950
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 4 ||| __now::: 1516020615237
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 1 ||| __now::: 1516020631028
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 10 ||| __now::: 1516020643012
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 1 ||| __now::: 1516020646483
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 206 ||| __now::: 1516020854488
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Date.prototype.toTimeString() - JavaScript | MDN - Google Chrome" ||| __time::: 0 ||| __now::: 1516020856500
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (18)" ||| __time::: 811 ||| __now::: 1516021669480
+__app::: "google-chrome", "Google-chrome" ||| __title::: "неправильно ты дядя федор код пишешь - Google Search - Google Chrome" ||| __time::: 18 ||| __now::: 1516021688481
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (18)" ||| __time::: 72 ||| __now::: 1516021762502
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Inbox - mirolyubov.dev@gmail.com - Gmail - Google Chrome" ||| __time::: 2 ||| __now::: 1516021766481
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 1 ||| __now::: 1516021769479
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Inbox - mirolyubov.dev@gmail.com - Gmail - Google Chrome" ||| __time::: 0 ||| __now::: 1516021770478
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 1 ||| __now::: 1516021772461
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 12 ||| __now::: 1516021785493
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 11 ||| __now::: 1516021799983
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 5 ||| __now::: 1516021805977
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 1 ||| __now::: 1516021810072
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 6 ||| __now::: 1516021818073
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 3 ||| __now::: 1516021823477
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 2 ||| __now::: 1516021872893
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (17)" ||| __time::: 392 ||| __now::: 1516022266855
+__app::: "google-chrome", "Google-chrome" ||| __title::: "FREELETICS - functional high intensity bodyweight training - Google Chrome" ||| __time::: 24 ||| __now::: 1516022291882
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (16)" ||| __time::: 22 ||| __now::: 1516022315880
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Inbox - mirolyubov.dev@gmail.com - Gmail - Google Chrome" ||| __time::: 5 ||| __now::: 1516022322871
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 0 ||| __now::: 1516022323877
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Inbox - mirolyubov.dev@gmail.com - Gmail - Google Chrome" ||| __time::: 10 ||| __now::: 1516022335870
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (16)" ||| __time::: 24 ||| __now::: 1516022361852
+__app::: "google-chrome", "Google-chrome" ||| __title::: "GitHub - Google Chrome" ||| __time::: 186 ||| __now::: 1516022548878
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 0 ||| __now::: 1516022550870
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1516022551864
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 1 ||| __now::: 1516022553859
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (17)" ||| __time::: 4 ||| __now::: 1516022559858
+__app::: "google-chrome", "Google-chrome" ||| __title::: "GuideLine - Google Docs - Google Chrome" ||| __time::: 33 ||| __now::: 1516022594869
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (16)" ||| __time::: 97 ||| __now::: 1516022693883
+__app::: "google-chrome", "Google-chrome" ||| __title::: "GuideLine - Google Docs - Google Chrome" ||| __time::: 114 ||| __now::: 1516022808861
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 0 ||| __now::: 1516022809882
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1516022812881
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (38)" ||| __time::: 1800 ||| __now::: 1516024614890
+__app::: "wingpanel", "Wingpanel" ||| __title::: "wingpanel" ||| __time::: 0 ||| __now::: 1516024615893
+__app::: "skype", "Skype" ||| __title::: "Skype" ||| __time::: 10 ||| __now::: 1516024626873
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (24)" ||| __time::: 32 ||| __now::: 1516024660911
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Вакансии от Luxoft (JavaScript) - mirolyubov.dev@gmail.com - Gmail - Google Chrome" ||| __time::: 117 ||| __now::: 1516024779859
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (21)" ||| __time::: 47 ||| __now::: 1516024827900
+__app::: "google-chrome", "Google-chrome" ||| __title::: "New Tab - Google Chrome" ||| __time::: 275 ||| __now::: 1516025104878
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (22)" ||| __time::: 1 ||| __now::: 1516025107881
+__app::: "skype", "Skype" ||| __title::: "Skype" ||| __time::: 26 ||| __now::: 1516025134887
+__app::: "wingpanel", "Wingpanel" ||| __title::: "wingpanel" ||| __time::: 218 ||| __now::: 1516025354889
+__app::: "skype", "Skype" ||| __title::: "Skype" ||| __time::: 149 ||| __now::: 1516025504873
