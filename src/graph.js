@@ -94,6 +94,29 @@ const parseStroke = stroke => {
   })
   return strokeObj
 }
+const parseData = data => {
+  data = data.split('~|~|~|~|~')
+
+  for (let item in data) {
+    data[item] = data[item].split('\n').filter(item => item != '')
+  }
+  // .map(session => {
+  //   session = session
+  //   .split('\n')
+  //   .map(item => parseStroke(item))
+  // })
+
+  console.log(data);
+
+}
+
+const Data = () => {
+  let data = {}
+  return {
+    getData: day => day ? data[day] : data,
+    setData: newData => data = newData && true
+  }
+}
 
 const renderTimeChart = data => {
   data.pop()
@@ -112,9 +135,12 @@ const renderTimeChart = data => {
   renderLegend(apps.uniqueApps)
 }
 
+let Model = Data()
+
 exports.updateTimeChart = () => {
   db.getDb()
     .then(data => {
+      parseData(data)
       data = data
       .split('\n')
       .map(item => parseStroke(item))

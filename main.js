@@ -21,9 +21,9 @@ function createTray () {
     {
       label: 'Quit',
       click: () => {
-        db.writeEnd()
         app.isQuiting = true
         app.quit()
+        db.writeEnd()
       }
     }
   ])
