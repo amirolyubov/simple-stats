@@ -6,14 +6,16 @@
     <link href="./style.css" rel="stylesheet" />
   </head>
   <body>
-    <svg id='timeChart' width='100%'></svg>
-    <div class="ctrlDay"><</div>
+    <div id='prevSession' class="ctrlDay"><</div>
     <div class="day">
-      <div id="name">hello</div>
-      <div id="title">TEST</div>
-      <div id="time">TEST</div>
+      <div class='dayInfo'>
+        <div id="name">hello</div>
+        <div id="title">TEST</div>
+        <div id="time">TEST</div>
+      </div>
+      <svg id='timeChart' width='100%'></svg>
     </div>
-    <div class="ctrlDay">></div>
+    <div id='nextSession' class="ctrlDay">></div>
     <script>
       // You can also require other files to run in this process
       require('./src/main.js')

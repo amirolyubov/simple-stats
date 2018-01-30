@@ -98,3 +98,180 @@ __app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 37 ||| __now::
 __app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 7 ||| __now::: 1517348305597
 __app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 2 ||| __now::: 1517348309593
 __app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 13 ||| __now::: 1517348323593
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "simple-stats: git" ||| __time::: 26 ||| __now::: 1517348351600
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (14)" ||| __time::: 0 ||| __now::: 1517348352574
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Twitter - Google Chrome" ||| __time::: 120 ||| __now::: 1517348473599
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "simple-stats: git" ||| __time::: 41 ||| __now::: 1517348516608
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 210 ||| __now::: 1517348728597
+__end:::1517348729896
+~|~|~|~|~
+__start:::1517348738021
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 2 ||| __now::: 1517348743040
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348745031
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 1 ||| __now::: 1517348747032
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 5 ||| __now::: 1517348753055
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 6 ||| __now::: 1517348760053
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1517348765057
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348768044
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 4 ||| __now::: 1517348774052
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 2 ||| __now::: 1517348778047
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 6 ||| __now::: 1517348786057
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 2 ||| __now::: 1517348790042
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 10 ||| __now::: 1517348802048
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 4 ||| __now::: 1517348807051
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 8 ||| __now::: 1517348816032
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348819052
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517348820042
+__app::: "wingpanel", "Wingpanel" ||| __title::: "wingpanel" ||| __time::: 1 ||| __now::: 1517348823044
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 15 ||| __now::: 1517348839048
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348841030
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1517348845056
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517348846048
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517348847032
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517348848031
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517348849035
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517348850031
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517348851031
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517348852032
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517348853032
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517348854031
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517348855032
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517348856031
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517348858031
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348860031
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517348862031
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517348863066
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517348865036
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517348866047
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517348869054
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348872062
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517348875045
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348878054
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517348881044
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348884059
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517348887031
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348889046
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1517348893037
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 2 ||| __now::: 1517348896040
+__end:::1517348897028
+~|~|~|~|~
+__start:::1517348901066
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517348904091
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 3 ||| __now::: 1517348908101
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1517348913095
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 3 ||| __now::: 1517348917108
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 2 ||| __now::: 1517348921093
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517348923077
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 8 ||| __now::: 1517348932092
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 1 ||| __now::: 1517348934077
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1517348938100
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517348939077
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 4 ||| __now::: 1517348944097
+__end:::1517348944910
+~|~|~|~|~
+__start:::1517349047629
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 17 ||| __now::: 1517349067650
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 6 ||| __now::: 1517349074638
+__start:::1517349075537
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517349077585
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 8 ||| __now::: 1517349087549
+__start:::1517349087909
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 8 ||| __now::: 1517349098940
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 3 ||| __now::: 1517349102923
+__start:::1517349103371
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 18 ||| __now::: 1517349124406
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 12 ||| __now::: 1517349138384
+__start:::1517349138808
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 11 ||| __now::: 1517349152861
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517349153864
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 5 ||| __now::: 1517349160836
+__start:::1517349180578
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 8 ||| __now::: 1517349191605
+__start:::1517349203330
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517349205363
+__start:::1517349208381
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517349210458
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 29 ||| __now::: 1517349241392
+__start:::1517349241805
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 12 ||| __now::: 1517349255828
+__start:::1517349263747
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 5 ||| __now::: 1517349271781
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 4 ||| __now::: 1517349277758
+__start:::1517349278108
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 8 ||| __now::: 1517349288143
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 12 ||| __now::: 1517349302119
+__start:::1517349302601
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 37 ||| __now::: 1517349342633
+__start:::1517349358626
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 10 ||| __now::: 1517349371667
+__start:::1517349399604
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 4 ||| __now::: 1517349405668
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 8 ||| __now::: 1517349415625
+__start:::1517349415824
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 18 ||| __now::: 1517349435856
+__start:::1517349448390
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517349451425
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 21 ||| __now::: 1517349474402
+__start:::1517349474653
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 8 ||| __now::: 1517349484665
+__start:::1517349501587
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 2 ||| __now::: 1517349506620
+__start:::1517349510532
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 66 ||| __now::: 1517349578560
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 6 ||| __now::: 1517349586555
+__start:::1517349587341
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 16 ||| __now::: 1517349606368
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Messenger - Google Chrome" ||| __time::: 56 ||| __now::: 1517349664373
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 4 ||| __now::: 1517349669389
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 1 ||| __now::: 1517349672381
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 5 ||| __now::: 1517349679360
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517349680380
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517349682378
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517349683394
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517349685370
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517349686387
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 46 ||| __now::: 1517349734374
+__start:::1517350063386
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1517350069419
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 1 ||| __now::: 1517350072422
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 8 ||| __now::: 1517350082425
+__start:::1517350103331
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 11 ||| __now::: 1517350116341
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517350118348
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517350120344
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 2 ||| __now::: 1517350123367
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517350126370
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517350127413
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 0 ||| __now::: 1517350129377
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 3 ||| __now::: 1517350134359
+__start:::1517350134887
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1517350140933
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517350142923
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1517350147910
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517350148906
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517350151922
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 1 ||| __now::: 1517350153900
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 35 ||| __now::: 1517350189923
+__start:::1517350191986
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517350196048
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517350198002
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 14 ||| __now::: 1517350213006
+__start:::1517350213532
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 17 ||| __now::: 1517350233562
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 53 ||| __now::: 1517350288542
+__start:::1517350336968
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1517350343004
+__start:::1517350347586
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 2 ||| __now::: 1517350352598
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 22 ||| __now::: 1517350376611
+__start:::1517350376918
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 12 ||| __now::: 1517350391952
+__start:::1517350414613
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 11 ||| __now::: 1517350428644
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 1 ||| __now::: 1517350431657
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 2 ||| __now::: 1517350435649
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517350436650
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 4 ||| __now::: 1517350441722
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 27 ||| __now::: 1517350470649
+__start:::1517350472748
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 26 ||| __now::: 1517350501812

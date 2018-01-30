@@ -1,8 +1,35 @@
 const db = require('./db.js')
+
 const timeChart = document.getElementById('timeChart')
+const prevButton = document.getElementById('prevSession')
+const nextButton = document.getElementById('nextSession')
+
 const svgns = "http://www.w3.org/2000/svg"
 const timeContainer = document.createElementNS(svgns, 'rect')
 const colors = []
+
+const Data = () => {
+  let data = [],
+      session = 1
+
+  return {
+    getData: day => day ? data[day] : data,
+    setData: newData => data = newData,
+    getSessionsTotal: () => data.length,
+    getCurrentSession: () => session,
+    setCurrentSession: current => {if (current < data.length && current >= 0) session = current}
+  }
+}
+const Model = Data()
+
+nextButton.onclick = () => {
+  Model.setCurrentSession(Model.getCurrentSession() + 1)
+  updateTimeChart()
+}
+prevButton.onclick = () => {
+  Model.setCurrentSession(Model.getCurrentSession() - 1)
+  updateTimeChart()
+}
 
 const randColor = () => '#' + Math.floor(Math.random() * 9) + '' + Math.floor(Math.random() * 9) + '' + Math.floor(Math.random() * 9)
 const clearChart = () => timeChart.innerHTML = null
@@ -85,7 +112,6 @@ const setColors = data => {
 }
 
 const parseStroke = stroke => {
-  console.log(stroke);
   let strokeObj = {}
   stroke = stroke
   .split(' ||| ')
@@ -106,17 +132,7 @@ const parseData = data => {
   return data
 }
 
-const Data = () => {
-  let data = []
-  return {
-    getData: day => day ? data[day] : data,
-    setData: newData => data = newData,
-    getSessionsTotal: () => data.length
-  }
-}
-
 const renderTimeChart = data => {
-  data.pop()
   apps = setColors(data)
   let totalTime = 0
   apps.data.map(item => {
@@ -132,14 +148,15 @@ const renderTimeChart = data => {
   renderLegend(apps.uniqueApps)
 }
 
-let Model = Data()
-
-exports.updateTimeChart = () => {
+const updateTimeChart = () => {
   db.getDb()
     .then(data => {
       Model.setData(parseData(data))
 
-      renderTimeChart(Model.getData(Model.getSessionsTotal() - 1))
-      renderTime(Model.getData(Model.getSessionsTotal() - 1))
+      renderTimeChart(Model.getData(Model.getCurrentSession()))
+      renderTime(Model.getData(Model.getCurrentSession()))
     })
 }
+
+
+exports.updateTimeChart = updateTimeChart
