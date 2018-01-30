@@ -45,3 +45,56 @@ __app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "simple-stats: 
 __app::: "atom", "Atom" ||| __title::: ".gitignore — ~/Projects/simple-stats — Atom" ||| __time::: 11 ||| __now::: 1517347257067
 __app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "simple-stats: git" ||| __time::: 6 ||| __now::: 1517347264089
 __app::: "atom", "Atom" ||| __title::: ".gitignore — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517347267065
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "simple-stats: git" ||| __time::: 57 ||| __now::: 1517347325088
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517347327069
+__app::: "google-chrome", "Google-chrome" ||| __title::: "js split - Google Search - Google Chrome" ||| __time::: 0 ||| __now::: 1517347328078
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 21 ||| __now::: 1517347350089
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 1 ||| __now::: 1517347352065
+__end:::1517347354666
+~|~|~|~|~
+__start:::1517348025079
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 9 ||| __now::: 1517348037089
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 10 ||| __now::: 1517348048094
+__app::: "wingpanel", "Wingpanel" ||| __title::: "wingpanel" ||| __time::: 1 ||| __now::: 1517348050104
+__end:::1517348050192
+~|~|~|~|~
+__start:::1517348053894
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 4 ||| __now::: 1517348060918
+__end:::1517348066903
+~|~|~|~|~
+__start:::1517348069445
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 1 ||| __now::: 1517348073470
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 1 ||| __now::: 1517348075455
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 1 ||| __now::: 1517348077459
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348079458
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 11 ||| __now::: 1517348091484
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348094471
+__end:::1517348095312
+~|~|~|~|~
+__start:::1517348146453
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 4 ||| __now::: 1517348153476
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348156481
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517348158466
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 10 ||| __now::: 1517348169466
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 1 ||| __now::: 1517348172474
+__end:::1517348173430
+~|~|~|~|~
+__start:::1517348176470
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 6 ||| __now::: 1517348185486
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517348187495
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 9 ||| __now::: 1517348198506
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 4 ||| __now::: 1517348203504
+__end:::1517348204487
+~|~|~|~|~
+__start:::1517348226561
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 2 ||| __now::: 1517348230586
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348232575
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 1 ||| __now::: 1517348234573
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 4 ||| __now::: 1517348239595
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348242587
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 12 ||| __now::: 1517348255575
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517348258594
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 37 ||| __now::: 1517348297590
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 7 ||| __now::: 1517348305597
+__app::: "vision", "vision" ||| __title::: "Developer Tools - file:///home/mirolyubov/Projects/simple-stats/index.html" ||| __time::: 2 ||| __now::: 1517348309593
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 13 ||| __now::: 1517348323593

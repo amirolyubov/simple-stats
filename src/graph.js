@@ -85,6 +85,7 @@ const setColors = data => {
 }
 
 const parseStroke = stroke => {
+  console.log(stroke);
   let strokeObj = {}
   stroke = stroke
   .split(' ||| ')
@@ -96,25 +97,21 @@ const parseStroke = stroke => {
 }
 const parseData = data => {
   data = data.split('~|~|~|~|~')
-
   for (let item in data) {
-    data[item] = data[item].split('\n').filter(item => item != '')
+    data[item] = data[item]
+    .split('\n')
+    .filter(item => item != '')
+    .map(item => item = parseStroke(item))
   }
-  // .map(session => {
-  //   session = session
-  //   .split('\n')
-  //   .map(item => parseStroke(item))
-  // })
-
-  console.log(data);
-
+  return data
 }
 
 const Data = () => {
-  let data = {}
+  let data = []
   return {
     getData: day => day ? data[day] : data,
-    setData: newData => data = newData && true
+    setData: newData => data = newData,
+    getSessionsTotal: () => data.length
   }
 }
 
@@ -140,13 +137,9 @@ let Model = Data()
 exports.updateTimeChart = () => {
   db.getDb()
     .then(data => {
-      parseData(data)
-      data = data
-      .split('\n')
-      .map(item => parseStroke(item))
-      data.shift()
+      Model.setData(parseData(data))
 
-      renderTimeChart(data)
-      renderTime(data)
+      renderTimeChart(Model.getData(Model.getSessionsTotal() - 1))
+      renderTime(Model.getData(Model.getSessionsTotal() - 1))
     })
 }
