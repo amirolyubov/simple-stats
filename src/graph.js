@@ -118,6 +118,8 @@ exports.updateTimeChart = () => {
       data = data
       .split('\n')
       .map(item => parseStroke(item))
+      data.shift()
+
       renderTimeChart(data)
       renderTime(data)
     })

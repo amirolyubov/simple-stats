@@ -4,6 +4,8 @@ const {app, Menu, Tray, BrowserWindow} = require('electron')
 const path = require('path')
 const url = require('url')
 
+const db = require('./src/db.js')
+
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
 let mainWindow
@@ -19,6 +21,7 @@ function createTray () {
     {
       label: 'Quit',
       click: () => {
+        db.writeEnd()
         app.isQuiting = true
         app.quit()
       }
@@ -38,7 +41,7 @@ function createWindow () {
     'accept-first-mouse': true
   })
   createTray()
-  
+
   mainWindow.loadURL(url.format({
     pathname: path.join(__dirname, 'index.html'),
     protocol: 'file:',
