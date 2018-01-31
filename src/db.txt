@@ -275,3 +275,95 @@ __app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 4 ||| __now:::
 __app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 27 ||| __now::: 1517350470649
 __start:::1517350472748
 __app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 26 ||| __now::: 1517350501812
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "simple-stats: git" ||| __time::: 50 ||| __now::: 1517350553794
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Volchok - Главная - Google Chrome" ||| __time::: 297 ||| __now::: 1517350852795
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (14)" ||| __time::: 4 ||| __now::: 1517350858769
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Volchok - Главная - Google Chrome" ||| __time::: 102 ||| __now::: 1517350961788
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (14)" ||| __time::: 221 ||| __now::: 1517351184790
+__app::: "google-chrome", "Google-chrome" ||| __title::: "New Tab - Google Chrome" ||| __time::: 3383 ||| __now::: 1517354568809
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (12)" ||| __time::: 13 ||| __now::: 1517354582812
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Twitter - Google Chrome" ||| __time::: 67 ||| __now::: 1517354651798
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "simple-stats: git" ||| __time::: 0 ||| __now::: 1517354652815
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 3 ||| __now::: 1517354657896
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517354659817
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 15 ||| __now::: 1517354676793
+__app::: "atom", "Atom" ||| __title::: "main.js — ~/Projects/simple-stats — Atom" ||| __time::: 110 ||| __now::: 1517354787806
+__start:::1517354788037
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 24 ||| __now::: 1517354815047
+__app::: "atom", "Atom" ||| __title::: "main.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517354816099
+__app::: "google-chrome", "Google-chrome" ||| __title::: "(2) Twitter - Google Chrome" ||| __time::: 2 ||| __now::: 1517354820074
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (12)" ||| __time::: 2 ||| __now::: 1517354824061
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Яндекс.Карты — подробная карта России и мира - Google Chrome" ||| __time::: 137 ||| __now::: 1517354962048
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (12)" ||| __time::: 12 ||| __now::: 1517354975104
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Commits · amirolyubov/simple-stats - Google Chrome" ||| __time::: 158 ||| __now::: 1517355135054
+__app::: "atom", "Atom" ||| __title::: "main.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517355136076
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 78 ||| __now::: 1517355216066
+__end:::1517355218025
+~|~|~|~|~
+__start:::1517406091587
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517406093598
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 8 ||| __now::: 1517406103596
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 2 ||| __now::: 1517406106601
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517406108596
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517406109599
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 7 ||| __now::: 1517406117600
+__app::: "atom", "Atom" ||| __title::: "style.css — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517406119621
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 18 ||| __now::: 1517406139636
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 623 ||| __now::: 1517406767628
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram" ||| __time::: 3 ||| __now::: 1517406772620
+__app::: "wingpanel", "Wingpanel" ||| __title::: "wingpanel" ||| __time::: 8 ||| __now::: 1517406781600
+__app::: "captive-login", "Captive-login" ||| __title::: "captive-login" ||| __time::: 8 ||| __now::: 1517406790617
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram" ||| __time::: 4 ||| __now::: 1517406795625
+__app::: "captive-login", "Captive-login" ||| __title::: "captive-login" ||| __time::: 35 ||| __now::: 1517406832601
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 102 ||| __now::: 1517406936087
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517406937074
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 1 ||| __now::: 1517406939090
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 2 ||| __now::: 1517406943089
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 1 ||| __now::: 1517406945088
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 8 ||| __now::: 1517406956071
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 145 ||| __now::: 1517407102086
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 109 ||| __now::: 1517407213065
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 359 ||| __now::: 1517407575086
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Hybrid Intelligence for Effective Asset Management | Cindicator - Google Chrome" ||| __time::: 32 ||| __now::: 1517407609069
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 265 ||| __now::: 1517407876066
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 113 ||| __now::: 1517407990080
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 2 ||| __now::: 1517407993099
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 8 ||| __now::: 1517408003083
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 5 ||| __now::: 1517408010093
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Hybrid Intelligence for Effective Asset Management | Cindicator - Google Chrome" ||| __time::: 0 ||| __now::: 1517408012068
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 0 ||| __now::: 1517408015093
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 23 ||| __now::: 1517408039096
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 219 ||| __now::: 1517408259120
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517408260083
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 3 ||| __now::: 1517408264071
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517408266077
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 182 ||| __now::: 1517408450065
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517408452071
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 84 ||| __now::: 1517408537082
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517408538101
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517408540081
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 129 ||| __now::: 1517408671099
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Collective Intelligence Fund. You invest intellect. We invest money. | Cindicator - Google Chrome" ||| __time::: 33 ||| __now::: 1517408706123
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 7 ||| __now::: 1517408715084
+__app::: "google-chrome", "Google-chrome" ||| __title::: "Collective Intelligence Fund. You invest intellect. We invest money. | Cindicator - Google Chrome" ||| __time::: 3 ||| __now::: 1517408720091
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (37)" ||| __time::: 88 ||| __now::: 1517408809099
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517408811073
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 1 ||| __now::: 1517408813095
+__end:::1517408813454
+~|~|~|~|~
+__start:::1517409207672
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 16 ||| __now::: 1517409225709
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 5 ||| __now::: 1517409232740
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 2 ||| __now::: 1517409236730
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 15 ||| __now::: 1517409253686
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517409255715
+__app::: "vision", "vision" ||| __title::: "Vision" ||| __time::: 33 ||| __now::: 1517409290750
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 23 ||| __now::: 1517409315683
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 45 ||| __now::: 1517409361710
+__app::: "pantheon-terminal", "Pantheon-terminal" ||| __title::: "npm start" ||| __time::: 0 ||| __now::: 1517409363711
+__app::: "atom", "Atom" ||| __title::: "graph.js — ~/Projects/simple-stats — Atom" ||| __time::: 1 ||| __now::: 1517409366692
+__app::: "wingpanel", "Wingpanel" ||| __title::: "wingpanel" ||| __time::: 0 ||| __now::: 1517409367702
+__app::: "atom", "Atom" ||| __title::: "index.html — ~/Projects/simple-stats — Atom" ||| __time::: 280 ||| __now::: 1517409648713
+__app::: "google-chrome", "Google-chrome" ||| __title::: "MacBook Pro expansion Graphics - Macbook Pro - MacBooks - Google Chrome" ||| __time::: 178 ||| __now::: 1517409828690
+__app::: "Telegram", "TelegramDesktop" ||| __title::: "Telegram (34)" ||| __time::: 120 ||| __now::: 1517409949692
+__app::: "atom", "Atom" ||| __title::: "index.html — ~/Projects/simple-stats — Atom" ||| __time::: 0 ||| __now::: 1517409950710

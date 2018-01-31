@@ -160,3 +160,4 @@ const updateTimeChart = () => {
 
 
 exports.updateTimeChart = updateTimeChart
+exports.model = Model

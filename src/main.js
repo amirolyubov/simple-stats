@@ -1,7 +1,3 @@
-// This file is required by the index.html file and will
-// be executed in the renderer process for that window.
-// All of the Node.js APIs are available in this process.
-
 const monitor = require('active-window')
 const name = document.getElementById('name')
 const title = document.getElementById('title')
@@ -35,7 +31,7 @@ setInterval(() => {
     previousProcess = {app: win.app, title: win.title, time: timer.getSeconds()}
 
     name.innerHTML = previousProcess.app
-    title.innerHTML = previousProcess.title
+    title.innerHTML = graph.model.getCurrentSession()
     time.innerHTML = previousProcess.time
   })
 }, 1000)

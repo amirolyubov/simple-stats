@@ -43,6 +43,21 @@ body {
 }
 .dayInfo {
   padding: 15px;
+  display: flex;
+  flex-direction: row;
+}
+.currentStats {
+  width: 60%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sessionStats {
+  width: 40%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 
